@@ -1,6 +1,6 @@
 # Level-3-Capstone-Project-1
 ## Poised Program - Database handling - MySQL
-### This program is builds up to the original Poised Program, but makes use of Databases in MySQL instead of reading and writing to text files
+### This program builds up to the original Poised Program, but makes use of Databases in MySQL instead of reading and writing to text files
 ### This program allows the user to generate a construction project by registerring all relevant parties (Architect, Engineer and Client) and uploading info regarding the project. 
 ### Defensive programming was used by means of try/catch blocks to ensure the user enters the correct info. Should the user enter an incorrect menu option as an example, the program will inform the user that an incorrect option was selected and that a correct option should be chosen
 ### There is a main menu with options for the user to select from. The menu options are as follow:
